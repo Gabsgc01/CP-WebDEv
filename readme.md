@@ -5,7 +5,7 @@ O js está Linkado ao front de maneira funcional
 
 ## Integrantes
 
-Gabriel Ciriaco 
+Gabriel Ciriaco de Oliveira Silva
 RM: 564880
 
 
